@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<swf compression="ZLIB" frameCount="1" frameRate="24.0" gfx="false" hasEndTag="true" type="SWF" version="9">
+  <!--WARNING: The structure of this XML is not final. In later versions of FFDec it can be changed.-->
+  <!--JPEXS Free Flash Decompiler v.10.0.0-->
+  <displayRect Xmax="1400" Xmin="0" Ymax="1100" Ymin="0" nbits="12" type="RECT"/>
+  <tags>
+    <item actionScript3="true" hasMetadata="false" noCrossDomainCache="false" reserved1="false" reserved2="false" reserved3="0" type="FileAttributesTag" useDirectBlit="false" useGPU="false" useNetwork="false"/>
+    <item type="SetBackgroundColorTag">
+      <backgroundColor blue="51" green="51" red="51" type="RGB"/>
+    </item>
+    <item type="DefineSceneAndFrameLabelDataTag">
+      <sceneOffsets>
+        <item>0</item>
+      </sceneOffsets>
+      <sceneNames>
+        <item>Scene 1</item>
+      </sceneNames>
+      <frameNums/>
+      <frameNames/>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="1" type="DefineSpriteTag">
+      <subTags>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item shapeId="2" type="DefineShapeTag">
+      <shapeBounds Xmax="1400" Xmin="0" Ymax="1100" Ymin="0" nbits="12" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="true" hasScale="true" nRotateBits="13" nScaleBits="1" nTranslateBits="11" rotateSkew0="2620" rotateSkew1="-2189" scaleX="0" scaleY="0" translateX="701" translateY="550" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="0" type="GRADRECORD">
+                    <color blue="47" green="47" red="47" type="RGB"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color blue="0" green="0" red="0" type="RGB"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="12" moveDeltaX="0" moveDeltaY="1100" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="0" deltaY="-1100" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="1400" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="1100" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="-1400" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item characterId="2" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+    </item>
+    <item shapeId="3" type="DefineShapeTag">
+      <shapeBounds Xmax="933" Xmin="-1" Ymax="1106" Ymin="6" nbits="12" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="255" green="255" red="255" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="11" moveDeltaX="933" moveDeltaY="352" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item anchorDeltaX="-53" anchorDeltaY="76" controlDeltaX="-3" controlDeltaY="38" numBits="6" type="CurvedEdgeRecord"/>
+          <item deltaX="-52" deltaY="68" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="24" deltaY="3" generalLineFlag="true" numBits="4" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="24" anchorDeltaY="16" controlDeltaX="30" controlDeltaY="7" numBits="4" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-74" anchorDeltaY="48" controlDeltaX="-14" controlDeltaY="41" numBits="6" type="CurvedEdgeRecord"/>
+          <item deltaX="-72" deltaY="40" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="108" deltaY="117" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="-68" anchorDeltaY="17" controlDeltaX="-45" controlDeltaY="27" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-111" anchorDeltaY="-46" controlDeltaX="-135" controlDeltaY="35" numBits="7" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-39" anchorDeltaY="91" controlDeltaX="-11" controlDeltaY="156" numBits="7" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-39" anchorDeltaY="-7" controlDeltaX="-11" controlDeltaY="26" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="35" anchorDeltaY="-30" controlDeltaX="-37" controlDeltaY="-8" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="17" anchorDeltaY="-70" controlDeltaX="25" controlDeltaY="-22" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="2" anchorDeltaY="-76" controlDeltaX="15" controlDeltaY="-63" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-139" anchorDeltaY="-35" controlDeltaX="-113" controlDeltaY="50" numBits="7" type="CurvedEdgeRecord"/>
+          <item deltaX="-116" deltaY="-45" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="108" deltaY="-117" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="-38" anchorDeltaY="-24" controlDeltaX="-34" controlDeltaY="-16" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-13" anchorDeltaY="-41" controlDeltaX="-74" controlDeltaY="-48" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="39" anchorDeltaY="0" controlDeltaX="38" controlDeltaY="-26" numBits="5" type="CurvedEdgeRecord"/>
+          <item deltaX="-52" deltaY="-68" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="-3" anchorDeltaY="-38" controlDeltaX="-53" controlDeltaY="-76" numBits="6" type="CurvedEdgeRecord"/>
+          <item deltaX="95" deltaY="8" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="39" deltaY="14" generalLineFlag="true" numBits="5" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="1" anchorDeltaY="-13" controlDeltaX="-2" controlDeltaY="-9" numBits="3" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="13" anchorDeltaY="-24" controlDeltaX="1" controlDeltaY="-28" numBits="4" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="63" anchorDeltaY="52" controlDeltaX="40" controlDeltaY="6" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="14" anchorDeltaY="24" controlDeltaX="52" controlDeltaY="44" numBits="5" type="CurvedEdgeRecord"/>
+          <item deltaX="-24" deltaY="-78" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="16" anchorDeltaY="-50" controlDeltaX="-31" controlDeltaY="-106" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="69" anchorDeltaY="31" controlDeltaX="43" controlDeltaY="0" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="10" anchorDeltaY="-47" controlDeltaX="0" controlDeltaY="-40" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="49" anchorDeltaY="-36" controlDeltaX="19" controlDeltaY="-94" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="19" anchorDeltaY="94" controlDeltaX="49" controlDeltaY="36" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="0" anchorDeltaY="40" controlDeltaX="10" controlDeltaY="47" numBits="5" type="CurvedEdgeRecord"/>
+          <item deltaX="40" deltaY="-15" generalLineFlag="true" numBits="5" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="27" anchorDeltaY="0" controlDeltaX="45" controlDeltaY="-16" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-31" anchorDeltaY="106" controlDeltaX="16" controlDeltaY="50" numBits="6" type="CurvedEdgeRecord"/>
+          <item deltaX="-24" deltaY="78" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="53" anchorDeltaY="-44" controlDeltaX="14" controlDeltaY="-24" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="40" anchorDeltaY="-6" controlDeltaX="62" controlDeltaY="-52" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-8" anchorDeltaY="35" controlDeltaX="21" controlDeltaY="39" numBits="5" type="CurvedEdgeRecord"/>
+          <item deltaX="39" deltaY="-14" generalLineFlag="true" numBits="5" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="95" deltaY="-8" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="4" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="3" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item characterId="4" clipDepth="0" depth="2" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="15" nScaleBits="17" nTranslateBits="10" rotateSkew0="12114" rotateSkew1="-12115" scaleX="45210" scaleY="45212" translateX="478" translateY="156" type="MATRIX"/>
+    </item>
+    <item shapeId="5" type="DefineShapeTag">
+      <shapeBounds Xmax="788" Xmin="14" Ymax="1193" Ymin="0" nbits="12" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="255" green="255" red="255" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="10" moveDeltaX="507" moveDeltaY="253" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item anchorDeltaX="60" anchorDeltaY="26" controlDeltaX="13" controlDeltaY="15" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="13" anchorDeltaY="46" controlDeltaX="46" controlDeltaY="19" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-59" anchorDeltaY="84" controlDeltaX="11" controlDeltaY="41" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="10" anchorDeltaY="-8" controlDeltaX="-38" controlDeltaY="55" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="48" anchorDeltaY="5" controlDeltaX="67" controlDeltaY="-45" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="54" anchorDeltaY="-40" controlDeltaX="45" controlDeltaY="6" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-47" anchorDeltaY="54" controlDeltaX="29" controlDeltaY="123" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-61" anchorDeltaY="42" controlDeltaX="-26" controlDeltaY="30" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="13" anchorDeltaY="37" controlDeltaX="-21" controlDeltaY="29" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="36" anchorDeltaY="19" controlDeltaX="13" controlDeltaY="37" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-49" anchorDeltaY="20" controlDeltaX="-43" controlDeltaY="2" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-30" anchorDeltaY="-1" controlDeltaX="-46" controlDeltaY="19" numBits="5" type="CurvedEdgeRecord"/>
+          <item deltaX="-67" deltaY="-7" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="-28" anchorDeltaY="-16" controlDeltaX="-26" controlDeltaY="-6" numBits="4" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-52" anchorDeltaY="121" controlDeltaX="-9" controlDeltaY="209" numBits="7" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-46" anchorDeltaY="-10" controlDeltaX="-13" controlDeltaY="32" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="42" anchorDeltaY="-36" controlDeltaX="-45" controlDeltaY="-8" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="20" anchorDeltaY="-97" controlDeltaX="34" controlDeltaY="-29" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="0" anchorDeltaY="-97" controlDeltaX="17" controlDeltaY="-86" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-22" anchorDeltaY="6" controlDeltaX="-28" controlDeltaY="17" numBits="4" type="CurvedEdgeRecord"/>
+          <item deltaX="-65" deltaY="7" generalLineFlag="true" numBits="6" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="-46" anchorDeltaY="-19" controlDeltaX="-29" controlDeltaY="1" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-44" anchorDeltaY="-2" controlDeltaX="-49" controlDeltaY="-20" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="13" anchorDeltaY="-37" controlDeltaX="36" controlDeltaY="-19" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-21" anchorDeltaY="-29" controlDeltaX="13" controlDeltaY="-37" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-27" anchorDeltaY="-30" controlDeltaX="-60" controlDeltaY="-42" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="29" anchorDeltaY="-123" controlDeltaX="-47" controlDeltaY="-54" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="45" anchorDeltaY="-6" controlDeltaX="54" controlDeltaY="40" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="67" anchorDeltaY="45" controlDeltaX="48" controlDeltaY="-5" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-39" anchorDeltaY="-55" controlDeltaX="11" controlDeltaY="8" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="11" anchorDeltaY="-40" controlDeltaX="-59" controlDeltaY="-85" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="47" anchorDeltaY="-19" controlDeltaX="13" controlDeltaY="-46" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="13" anchorDeltaY="-16" controlDeltaX="59" controlDeltaY="-25" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="24" anchorDeltaY="-67" controlDeltaX="47" controlDeltaY="-53" numBits="6" type="CurvedEdgeRecord"/>
+          <item deltaX="35" deltaY="-133" generalLineFlag="true" numBits="7" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="35" deltaY="133" generalLineFlag="true" numBits="7" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item anchorDeltaX="47" anchorDeltaY="53" controlDeltaX="24" controlDeltaY="67" numBits="6" type="CurvedEdgeRecord"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="6" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="5" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item characterId="6" clipDepth="0" depth="4" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="14" nScaleBits="16" nTranslateBits="8" rotateSkew0="-6968" rotateSkew1="6967" scaleX="26004" scaleY="26005" translateX="62" translateY="81" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="128" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item characterId="6" clipDepth="0" depth="6" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="16" nScaleBits="16" nTranslateBits="12" rotateSkew0="16506" rotateSkew1="-16507" scaleX="16506" scaleY="16507" translateX="1171" translateY="59" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="44" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item characterId="6" clipDepth="0" depth="8" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="15" nScaleBits="15" nTranslateBits="11" rotateSkew0="11018" rotateSkew1="-11019" scaleX="11018" scaleY="11019" translateX="849" translateY="758" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="51" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item shapeId="7" type="DefineShapeTag">
+      <shapeBounds Xmax="666" Xmin="6" Ymax="1227" Ymin="6" nbits="12" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="255" green="255" red="255" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="11" moveDeltaX="566" moveDeltaY="283" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item anchorDeltaX="17" anchorDeltaY="67" controlDeltaX="-53" controlDeltaY="106" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="116" anchorDeltaY="51" controlDeltaX="20" controlDeltaY="77" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-8" anchorDeltaY="62" controlDeltaX="-111" controlDeltaY="99" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="46" anchorDeltaY="89" controlDeltaX="-5" controlDeltaY="37" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-55" anchorDeltaY="13" controlDeltaX="-60" controlDeltaY="2" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-34" anchorDeltaY="30" controlDeltaX="-73" controlDeltaY="17" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-44" anchorDeltaY="104" controlDeltaX="-14" controlDeltaY="165" numBits="7" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-46" anchorDeltaY="-9" controlDeltaX="-14" controlDeltaY="32" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="43" anchorDeltaY="-36" controlDeltaX="-46" controlDeltaY="-9" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="19" anchorDeltaY="-71" controlDeltaX="28" controlDeltaY="-23" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="6" anchorDeltaY="-82" controlDeltaX="16" controlDeltaY="-63" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-76" anchorDeltaY="-19" controlDeltaX="-32" controlDeltaY="-34" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-63" anchorDeltaY="-2" controlDeltaX="-58" controlDeltaY="-15" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-5" anchorDeltaY="-37" controlDeltaX="46" controlDeltaY="-89" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-111" anchorDeltaY="-99" controlDeltaX="-9" controlDeltaY="-62" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="20" anchorDeltaY="-77" controlDeltaX="117" controlDeltaY="-51" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-53" anchorDeltaY="-106" controlDeltaX="17" controlDeltaY="-67" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="66" anchorDeltaY="-95" controlDeltaX="71" controlDeltaY="0" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="48" anchorDeltaY="-118" controlDeltaX="44" controlDeltaY="-64" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="45" anchorDeltaY="64" controlDeltaX="48" controlDeltaY="118" numBits="6" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="71" anchorDeltaY="0" controlDeltaX="66" controlDeltaY="95" numBits="6" type="CurvedEdgeRecord"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="8" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="7" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item characterId="8" clipDepth="0" depth="10" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="15" nScaleBits="14" nTranslateBits="11" rotateSkew0="12433" rotateSkew1="-12433" scaleX="7179" scaleY="7179" translateX="840" translateY="71" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="128" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item characterId="8" clipDepth="0" depth="12" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="15" nScaleBits="15" nTranslateBits="11" rotateSkew0="-9334" rotateSkew1="9335" scaleX="-16169" scaleY="-16169" translateX="184" translateY="953" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="26" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item characterId="8" clipDepth="0" depth="14" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="true" hasScale="true" nRotateBits="14" nScaleBits="16" nTranslateBits="12" rotateSkew0="-4833" rotateSkew1="4832" scaleX="18034" scaleY="18034" translateX="1032" translateY="604" type="MATRIX"/>
+      <colorTransform alphaAddTerm="0" alphaMultTerm="26" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+    </item>
+    <item flags="1" name="" type="DoABC2Tag">
+      <abc type="ABC">
+        <version major="46" minor="16" type="ABCVersion"/>
+        <constants type="AVM2ConstantPool">
+          <constant_int/>
+          <constant_uint/>
+          <constant_double/>
+          <constant_decimal/>
+          <constant_float/>
+          <constant_float4/>
+          <constant_string>
+            <item isNull="true"/>
+            <item>leaves_fla</item>
+            <item>MainTimeline</item>
+            <item>flash.display</item>
+            <item>MovieClip</item>
+            <item>leaves_fla:MainTimeline</item>
+            <item>frame1</item>
+            <item/>
+            <item>wrapper</item>
+            <item>flash.system</item>
+            <item>Security</item>
+            <item>*</item>
+            <item>allowDomain</item>
+            <item>addFrameScript</item>
+            <item>Object</item>
+            <item>flash.events</item>
+            <item>EventDispatcher</item>
+            <item>DisplayObject</item>
+            <item>InteractiveObject</item>
+            <item>DisplayObjectContainer</item>
+            <item>Sprite</item>
+          </constant_string>
+          <constant_namespace>
+            <item isNull="true"/>
+            <item kind="22" name_index="1" type="Namespace"/>
+            <item kind="22" name_index="3" type="Namespace"/>
+            <item kind="24" name_index="5" type="Namespace"/>
+            <item kind="23" name_index="1" type="Namespace"/>
+            <item kind="22" name_index="7" type="Namespace"/>
+            <item kind="24" name_index="8" type="Namespace"/>
+            <item kind="22" name_index="9" type="Namespace"/>
+            <item kind="22" name_index="15" type="Namespace"/>
+          </constant_namespace>
+          <constant_namespace_set/>
+          <constant_multiname>
+            <item isNull="true"/>
+            <item kind="7" name_index="2" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="4" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="6" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="8" namespace_index="5" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="10" namespace_index="7" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="12" namespace_index="5" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="13" namespace_index="5" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="14" namespace_index="5" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="16" namespace_index="8" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="17" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="18" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="19" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="20" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+          </constant_multiname>
+        </constants>
+        <method_info>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+        </method_info>
+        <metadata_info/>
+        <instance_info>
+          <item flags="8" iinit_index="2" name_index="1" protectedNS="3" super_index="2" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="03010001" disp_id="0" fileOffset="1227" kindFlags="0" kindType="1" method_info="1" name_index="3" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="8" iinit_index="5" name_index="4" protectedNS="6" super_index="2" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits/>
+            </instance_traits>
+          </item>
+        </instance_info>
+        <class_info>
+          <item cinit_index="0" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="4" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+        </class_info>
+        <script_info>
+          <item init_index="3" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="01040100" class_info="0" fileOffset="1245" kindFlags="0" kindType="4" name_index="1" slot_id="1" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="6" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="04040101" class_info="1" fileOffset="1251" kindFlags="0" kindType="4" name_index="4" slot_id="1" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+        </script_info>
+        <bodies>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="0" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03060052c0b4f060160052c0b4f060147" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="2" method_info="1" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d049005d07240060034f070247" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="3" method_info="2" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0306500600830600930600a30600b30600c30600d30600230600258001d1d1d1d1d1d1d680147" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="3" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="4" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="5" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0306500600830600930600a30600b30600c30600d30600230600258011d1d1d1d1d1d1d680447" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="6" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+        </bodies>
+      </abc>
+    </item>
+    <item type="SymbolClassTag">
+      <tags>
+        <item>1</item>
+        <item>0</item>
+      </tags>
+      <names>
+        <item>wrapper</item>
+        <item>leaves_fla.MainTimeline</item>
+      </names>
+    </item>
+    <item type="ShowFrameTag"/>
+  </tags>
+</swf>

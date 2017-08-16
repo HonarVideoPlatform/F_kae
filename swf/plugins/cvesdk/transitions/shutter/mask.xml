@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<swf compression="ZLIB" frameCount="1" frameRate="24.0" gfx="false" hasEndTag="true" type="SWF" version="9">
+  <!--WARNING: The structure of this XML is not final. In later versions of FFDec it can be changed.-->
+  <!--JPEXS Free Flash Decompiler v.10.0.0-->
+  <displayRect Xmax="8000" Xmin="0" Ymax="6000" Ymin="0" nbits="14" type="RECT"/>
+  <tags>
+    <item actionScript3="true" hasMetadata="false" noCrossDomainCache="false" reserved1="false" reserved2="false" reserved3="0" type="FileAttributesTag" useDirectBlit="false" useGPU="false" useNetwork="false"/>
+    <item type="SetBackgroundColorTag">
+      <backgroundColor blue="51" green="51" red="51" type="RGB"/>
+    </item>
+    <item type="DefineSceneAndFrameLabelDataTag">
+      <sceneOffsets>
+        <item>0</item>
+      </sceneOffsets>
+      <sceneNames>
+        <item>Scene 1</item>
+      </sceneNames>
+      <frameNums/>
+      <frameNames/>
+    </item>
+    <item flags="1" name="" type="DoABC2Tag">
+      <abc type="ABC">
+        <version major="46" minor="16" type="ABCVersion"/>
+        <constants type="AVM2ConstantPool">
+          <constant_int/>
+          <constant_uint/>
+          <constant_double/>
+          <constant_decimal/>
+          <constant_float/>
+          <constant_float4/>
+          <constant_string>
+            <item isNull="true"/>
+            <item/>
+            <item>Mask</item>
+            <item>flash.display</item>
+            <item>MovieClip</item>
+            <item>shutter_fla</item>
+            <item>MainTimeline</item>
+            <item>shutter_fla:MainTimeline</item>
+            <item>_wrapper</item>
+            <item>wrapper</item>
+            <item>frame1</item>
+            <item>_animation</item>
+            <item>_mask</item>
+            <item>Object</item>
+            <item>flash.events</item>
+            <item>EventDispatcher</item>
+            <item>DisplayObject</item>
+            <item>InteractiveObject</item>
+            <item>DisplayObjectContainer</item>
+            <item>Sprite</item>
+            <item>flash.system</item>
+            <item>Security</item>
+            <item>*</item>
+            <item>allowDomain</item>
+            <item>addFrameScript</item>
+          </constant_string>
+          <constant_namespace>
+            <item isNull="true"/>
+            <item kind="22" name_index="1" type="Namespace"/>
+            <item kind="22" name_index="3" type="Namespace"/>
+            <item kind="24" name_index="2" type="Namespace"/>
+            <item kind="22" name_index="5" type="Namespace"/>
+            <item kind="24" name_index="7" type="Namespace"/>
+            <item kind="23" name_index="5" type="Namespace"/>
+            <item kind="24" name_index="9" type="Namespace"/>
+            <item kind="22" name_index="14" type="Namespace"/>
+            <item kind="22" name_index="20" type="Namespace"/>
+          </constant_namespace>
+          <constant_namespace_set>
+            <item isNull="true"/>
+            <item type="NamespaceSet">
+              <namespaces>
+                <item>1</item>
+              </namespaces>
+            </item>
+          </constant_namespace_set>
+          <constant_multiname>
+            <item isNull="true"/>
+            <item kind="7" name_index="2" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="4" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="6" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="8" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="9" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="10" namespace_index="6" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="11" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="12" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="2" namespace_index="0" namespace_set_index="1" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="13" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="15" namespace_index="8" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="16" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="17" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="18" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="19" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="21" namespace_index="9" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="23" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="24" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="9" namespace_index="0" namespace_set_index="1" qname_index="0" type="Multiname"/>
+          </constant_multiname>
+        </constants>
+        <method_info>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="0" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+        </method_info>
+        <metadata_info/>
+        <instance_info>
+          <item flags="8" iinit_index="1" name_index="1" protectedNS="3" super_index="2" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits/>
+            </instance_traits>
+          </item>
+          <item flags="8" iinit_index="5" name_index="3" protectedNS="5" super_index="2" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="0400000500" fileOffset="474" kindFlags="0" kindType="0" name_index="4" slot_id="0" type="TraitSlotConst" type_index="5" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="06010004" disp_id="0" fileOffset="479" kindFlags="0" kindType="1" method_info="4" name_index="6" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="8" iinit_index="8" name_index="5" protectedNS="7" super_index="2" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="0700000100" fileOffset="490" kindFlags="0" kindType="0" name_index="7" slot_id="0" type="TraitSlotConst" type_index="1" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="0800000200" fileOffset="495" kindFlags="0" kindType="0" name_index="8" slot_id="0" type="TraitSlotConst" type_index="2" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+        </instance_info>
+        <class_info>
+          <item cinit_index="0" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="3" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="7" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+        </class_info>
+        <script_info>
+          <item init_index="2" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="01040000" class_info="0" fileOffset="509" kindFlags="0" kindType="4" name_index="1" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="6" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="03040101" class_info="1" fileOffset="515" kindFlags="0" kindType="4" name_index="3" slot_id="1" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="9" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="05040002" class_info="2" fileOffset="521" kindFlags="0" kindType="4" name_index="5" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+        </script_info>
+        <bodies>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="0" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="1" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0305d09600a30600b30600c30600d30600e30600f30600230600258001d1d1d1d1d1d1d680147" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="2" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="3" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03060102c164f110147" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="2" method_info="4" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d049005d12240060064f120247" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="3" method_info="5" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0306500600a30600b30600c30600d30600e30600f30600230600258011d1d1d1d1d1d1d680347" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="6" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="7" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="8" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0305d13600a30600b30600c30600d30600e30600f30600230600258021d1d1d1d1d1d1d680547" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="9" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+        </bodies>
+      </abc>
+    </item>
+    <item reserved="0" shapeId="1" type="DefineShape4Tag" usesFillWindingRule="false" usesNonScalingStrokes="false" usesScalingStrokes="true">
+      <edgeBounds Xmax="8000" Xmin="0" Ymax="6000" Ymin="0" nbits="14" type="RECT"/>
+      <shapeBounds Xmax="8010" Xmin="-10" Ymax="6010" Ymin="-10" nbits="14" type="RECT"/>
+      <shapes numFillBits="0" numLineBits="1" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles/>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles>
+            <item endCapStyle="0" hasFillFlag="false" joinStyle="0" miterLimitFactor="0.0" noClose="false" noHScaleFlag="false" noVScaleFlag="false" pixelHintingFlag="false" reserved="0" startCapStyle="0" type="LINESTYLE2" width="20">
+              <color alpha="0" blue="1" green="1" red="1" type="RGBA"/>
+            </item>
+          </lineStyles>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="0" lineStyle="1" moveBits="14" moveDeltaX="8000" moveDeltaY="6000" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="false" stateLineStyle="true" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="-8000" deltaY="0" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="-6000" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="8000" deltaY="0" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="6000" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item shapeId="2" type="DefineShape3Tag">
+      <shapeBounds Xmax="5148" Xmin="-5140" Ymax="3659" Ymin="-3016" nbits="14" type="RECT"/>
+      <shapes numFillBits="2" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="true" hasScale="true" nRotateBits="11" nScaleBits="1" nTranslateBits="13" rotateSkew0="-516" rotateSkew1="-518" scaleX="0" scaleY="0" translateX="-2" translateY="3529" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="0" type="GRADRECORD">
+                    <color alpha="0" blue="0" green="0" red="0" type="RGBA"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color alpha="26" blue="0" green="0" red="0" type="RGBA"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="true" hasScale="true" nRotateBits="15" nScaleBits="1" nTranslateBits="12" rotateSkew0="12779" rotateSkew1="-4488" scaleX="0" scaleY="0" translateX="1922" translateY="198" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="98" type="GRADRECORD">
+                    <color alpha="51" blue="0" green="0" red="0" type="RGBA"/>
+                  </item>
+                  <item ratio="246" type="GRADRECORD">
+                    <color alpha="128" blue="0" green="0" red="0" type="RGBA"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color alpha="204" blue="0" green="0" red="0" type="RGBA"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="1" fillStyle1="2" lineStyle="0" moveBits="14" moveDeltaX="5136" moveDeltaY="3411" numFillBits="0" numLineBits="0" stateFillStyle0="true" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="-10264" deltaY="0" generalLineFlag="false" numBits="13" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="-11" generalLineFlag="false" numBits="3" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item fillStyle0="0" fillStyle1="0" lineStyle="0" moveBits="0" moveDeltaX="0" moveDeltaY="0" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="false" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="-12" deltaY="0" generalLineFlag="false" numBits="3" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="259" generalLineFlag="false" numBits="8" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="10276" deltaY="0" generalLineFlag="false" numBits="13" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="-248" generalLineFlag="false" numBits="7" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item fillStyle0="2" fillStyle1="0" lineStyle="0" moveBits="0" moveDeltaX="0" moveDeltaY="0" numFillBits="0" numLineBits="0" stateFillStyle0="true" stateFillStyle1="false" stateLineStyle="false" stateMoveTo="false" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="12" deltaY="0" generalLineFlag="false" numBits="3" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="-6427" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="-10276" deltaY="0" generalLineFlag="false" numBits="13" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="6416" generalLineFlag="false" numBits="12" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="3" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="2" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="51640" scaleY="52924" translateX="0" translateY="704" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item shapeId="4" type="DefineShapeTag">
+      <shapeBounds Xmax="13616" Xmin="-2336" Ymax="13616" Ymin="-2336" nbits="15" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="0" green="255" red="0" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="14" moveDeltaX="-2336" moveDeltaY="5640" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="7976" deltaY="-7976" generalLineFlag="true" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="7976" deltaY="7976" generalLineFlag="true" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="-7976" deltaY="7976" generalLineFlag="true" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="-7976" deltaY="-7976" generalLineFlag="true" numBits="12" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="5" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="4" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item frameCount="51" hasEndTag="true" spriteId="6" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="1" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item depth="1" type="RemoveObject2Tag"/>
+        <item characterId="3" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="1" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11884" translateY="-2246" type="MATRIX"/>
+        </item>
+        <item characterId="3" clipDepth="0" depth="3" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="1" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9347" translateY="10975" type="MATRIX"/>
+        </item>
+        <item characterId="3" clipDepth="0" depth="5" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="1" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3865" translateY="8437" type="MATRIX"/>
+        </item>
+        <item characterId="3" clipDepth="0" depth="7" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="1" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1337" translateY="-4775" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11207" translateY="-2243" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9344" translateY="10298" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3188" translateY="8434" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1334" translateY="-4098" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="10558" translateY="-2240" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9341" translateY="9649" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-2539" translateY="8431" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1331" translateY="-3449" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="9938" translateY="-2236" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9337" translateY="9029" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-1919" translateY="8427" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1327" translateY="-2829" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="9348" translateY="-2232" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9333" translateY="8439" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-1329" translateY="8423" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1323" translateY="-2239" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="8786" translateY="-2230" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9331" translateY="7877" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-767" translateY="8421" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1321" translateY="-1677" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="8252" translateY="-2228" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9329" translateY="7343" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-233" translateY="8419" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1319" translateY="-1143" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="7747" translateY="-2225" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9326" translateY="6838" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="272" translateY="8416" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1316" translateY="-638" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="7272" translateY="-2222" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9323" translateY="6363" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="747" translateY="8413" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1313" translateY="-163" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="6825" translateY="-2221" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9322" translateY="5916" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="1194" translateY="8412" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1312" translateY="284" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="6408" translateY="-2218" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9319" translateY="5499" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="1611" translateY="8409" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1309" translateY="701" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="6018" translateY="-2215" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9317" translateY="5109" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="2001" translateY="8407" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1306" translateY="1090" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="5658" translateY="-2214" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9315" translateY="4749" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="2361" translateY="8405" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1305" translateY="1451" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="5326" translateY="-2212" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9313" translateY="4417" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="2693" translateY="8403" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1303" translateY="1783" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="5023" translateY="-2210" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9312" translateY="4114" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="2996" translateY="8402" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1301" translateY="2085" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4750" translateY="-2210" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9311" translateY="3841" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3269" translateY="8401" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1301" translateY="2359" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4505" translateY="-2209" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9310" translateY="3596" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3514" translateY="8400" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1300" translateY="2604" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4289" translateY="-2207" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9308" translateY="3380" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3730" translateY="8398" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1298" translateY="2820" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4102" translateY="-2206" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9307" translateY="3193" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3917" translateY="8397" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1297" translateY="3007" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3942" translateY="-2206" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9307" translateY="3033" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4077" translateY="8397" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1297" translateY="3167" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3813" translateY="-2205" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9306" translateY="2904" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4206" translateY="8396" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1296" translateY="3296" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3712" translateY="-2204" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9305" translateY="2803" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4307" translateY="8395" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1295" translateY="3397" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3640" translateY="-2203" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9305" translateY="2731" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4379" translateY="8395" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1294" translateY="3468" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3597" translateY="-2203" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9304" translateY="2688" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4422" translateY="8394" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1294" translateY="3512" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="3583" translateY="-2203" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9304" translateY="2674" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="4436" translateY="8394" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1294" translateY="3526" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4234" translateY="-2206" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9307" translateY="3325" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3785" translateY="8397" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1297" translateY="2875" type="MATRIX"/>
+        </item>
+        <item characterId="5" clipDepth="0" depth="9" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="26" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="14" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="5424" scaleY="5423" translateX="3536" translateY="2623" type="MATRIX"/>
+          <colorTransform alphaAddTerm="0" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-255" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="4858" translateY="-2210" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9311" translateY="3949" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="3161" translateY="8401" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1301" translateY="2251" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="15" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="10660" scaleY="10660" translateX="3085" translateY="2173" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-37" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-229" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="5455" translateY="-2213" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9314" translateY="4546" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="2564" translateY="8404" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1304" translateY="1654" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="15" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="15674" scaleY="15675" translateX="2654" translateY="1743" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-73" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-203" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="6027" translateY="-2216" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9316" translateY="5118" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="1992" translateY="8406" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1307" translateY="1083" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="20464" scaleY="20467" translateX="2242" translateY="1331" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-108" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-179" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="6571" translateY="-2219" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9320" translateY="5662" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="1448" translateY="8410" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1310" translateY="538" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="25032" scaleY="25036" translateX="1849" translateY="940" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-140" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-156" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="7089" translateY="-2221" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9322" translateY="6180" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="930" translateY="8412" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1312" translateY="20" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="29376" scaleY="29382" translateX="1475" translateY="566" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-171" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-134" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="7581" translateY="-2223" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9324" translateY="6672" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="438" translateY="8414" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1314" translateY="-472" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="33498" scaleY="33505" translateX="1121" translateY="213" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-201" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-113" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="8046" translateY="-2226" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9327" translateY="7137" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-27" translateY="8417" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1317" translateY="-937" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="37398" scaleY="37406" translateX="784" translateY="-122" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-229" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-94" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="8484" translateY="-2228" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9329" translateY="7575" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-465" translateY="8419" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1319" translateY="-1375" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="9" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="10" rotateSkew0="0" rotateSkew1="0" scaleX="41074" scaleY="41083" translateX="462" translateY="-432" type="MATRIX"/>
+          <colorTransform alphaAddTerm="-255" alphaMultTerm="0" blueAddTerm="-255" blueMultTerm="0" greenAddTerm="-255" greenMultTerm="0" hasAddTerms="true" hasMultTerms="false" nbits="9" redAddTerm="-75" redMultTerm="0" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="8896" translateY="-2230" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9331" translateY="7987" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-877" translateY="8421" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="12" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1321" translateY="-1787" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="9282" translateY="-2232" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9333" translateY="8373" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-1263" translateY="8423" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1323" translateY="-2173" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="9640" translateY="-2234" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9335" translateY="8731" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-1621" translateY="8425" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1325" translateY="-2531" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="9972" translateY="-2236" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9337" translateY="9063" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-1953" translateY="8427" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1327" translateY="-2863" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="10277" translateY="-2237" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9338" translateY="9368" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-2258" translateY="8428" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1328" translateY="-3168" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="10556" translateY="-2238" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9339" translateY="9647" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-2537" translateY="8429" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1329" translateY="-3447" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="10808" translateY="-2240" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9341" translateY="9899" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-2789" translateY="8431" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1331" translateY="-3699" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11035" translateY="-2241" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9342" translateY="10126" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3016" translateY="8432" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="13" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1332" translateY="-3926" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11233" translateY="-2242" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9343" translateY="10325" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3215" translateY="8433" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1332" translateY="-4124" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11406" translateY="-2243" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9344" translateY="10498" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3388" translateY="8434" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1333" translateY="-4297" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11552" translateY="-2244" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9345" translateY="10643" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3533" translateY="8435" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1335" translateY="-4443" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11671" translateY="-2245" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9346" translateY="10762" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3652" translateY="8436" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1336" translateY="-4562" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11765" translateY="-2245" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9346" translateY="10856" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3746" translateY="8436" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1336" translateY="-4656" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11831" translateY="-2245" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9346" translateY="10922" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3812" translateY="8436" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1336" translateY="-4722" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11871" translateY="-2246" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9347" translateY="10963" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3853" translateY="8437" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1336" translateY="-4762" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46340" rotateSkew1="-46340" scaleX="46341" scaleY="46341" translateX="11884" translateY="-2246" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="3" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="46341" rotateSkew1="-46341" scaleX="-46341" scaleY="-46341" translateX="9347" translateY="10975" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="5" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="15" rotateSkew0="-46341" rotateSkew1="46341" scaleX="-46341" scaleY="-46341" translateX="-3865" translateY="8437" type="MATRIX"/>
+        </item>
+        <item characterId="0" clipDepth="0" depth="7" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="true" hasScale="true" nRotateBits="17" nScaleBits="17" nTranslateBits="14" rotateSkew0="-46340" rotateSkew1="46340" scaleX="46340" scaleY="46340" translateX="-1337" translateY="-4775" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item frameCount="51" hasEndTag="true" spriteId="7" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="1" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item depth="1" type="RemoveObject2Tag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item type="ShowFrameTag"/>
+        <item characterId="5" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="26" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="14" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="5297" scaleY="5292" translateX="3538" translateY="2634" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="15" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="10497" scaleY="10492" translateX="3094" translateY="2186" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="15" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="15474" scaleY="15470" translateX="2669" translateY="1756" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="20232" scaleY="20228" translateX="2264" translateY="1346" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="24768" scaleY="24764" translateX="1877" translateY="955" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="29082" scaleY="29079" translateX="1510" translateY="583" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="33175" scaleY="33173" translateX="1160" translateY="230" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="37048" scaleY="37046" translateX="829" translateY="-104" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="40697" scaleY="40695" translateX="519" translateY="-419" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="44128" scaleY="44126" translateX="225" translateY="-715" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="47336" scaleY="47335" translateX="-48" translateY="-992" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="50322" scaleY="50321" translateX="-303" translateY="-1250" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="53089" scaleY="53087" translateX="-539" translateY="-1488" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="55633" scaleY="55632" translateX="-755" translateY="-1707" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="12" rotateSkew0="0" rotateSkew1="0" scaleX="57956" scaleY="57955" translateX="-955" translateY="-1908" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="60058" scaleY="60057" translateX="-1134" translateY="-2090" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="61939" scaleY="61938" translateX="-1294" translateY="-2251" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="63598" scaleY="63598" translateX="-1435" translateY="-2395" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="65036" scaleY="65036" translateX="-1558" translateY="-2518" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="66254" scaleY="66254" translateX="-1661" translateY="-2623" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="67248" scaleY="67248" translateX="-1746" translateY="-2710" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="68023" scaleY="68023" translateX="-1813" translateY="-2777" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="68577" scaleY="68577" translateX="-1860" translateY="-2824" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="68908" scaleY="68908" translateX="-1889" translateY="-2852" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+        <item characterId="0" clipDepth="0" depth="1" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="69019" scaleY="69019" translateX="-1893" translateY="-2868" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="8" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="7" clipDepth="0" depth="1" name="_mask" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item characterId="6" clipDepth="0" depth="3" name="_animation" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item type="SymbolClassTag">
+      <tags>
+        <item>8</item>
+        <item>6</item>
+        <item>0</item>
+      </tags>
+      <names>
+        <item>wrapper</item>
+        <item>Mask</item>
+        <item>shutter_fla.MainTimeline</item>
+      </names>
+    </item>
+    <item characterId="8" clipDepth="0" depth="1" name="_wrapper" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+    </item>
+    <item type="ShowFrameTag"/>
+  </tags>
+</swf>
